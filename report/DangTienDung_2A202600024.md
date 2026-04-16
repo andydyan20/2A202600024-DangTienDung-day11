@@ -1,6 +1,6 @@
 # Assignment 11: Build a Production Defense-in-Depth Pipeline
 
-**Name:** Đặng Tiến Dũng - 2A202600024
+**Name:** Đặng Tiến Dũng - 2A202600024  
 **Course:** AICB-P1 — AI Agent Development  
 **Due:** End of Week 11  
 **Submission:** `.ipynb` notebook + individual report (PDF or Markdown)
